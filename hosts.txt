@@ -1,0 +1,3 @@
+kelas-a-master slots=2
+kelas-a-worker1 slots=2
+kelas-a-worker2 slots=2
