@@ -1,7 +1,9 @@
 # OpenMPI-Kelompok2
 
-**Tugas Kelompok: Komputasi Paralel Berbasis Cluster dengan OpenMPI** 
+**Tugas Kelompok: Komputasi Paralel Berbasis Cluster dengan OpenMPI**
+
 **Mata Kuliah:** Komputasi Paralel / Sistem Terdistribusi (UIN Sunan Kalijaga)
+
 **Dosen Pengampu:** Bapak Adi Wirawan
 
 ## Anggota Kelompok
