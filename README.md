@@ -23,9 +23,9 @@ Aplikasi komputasi paralel ini dibangun menggunakan bahasa C dengan *library* Op
 Tujuan utama dari aplikasi ini adalah memproses data akademik berskala besar yang disimpan dalam format `.csv`. 
 
 Aplikasi yang dibuat mampu membagi beban kerja secara adil ke beberapa *hosts* (Master & Workers) untuk menghitung tiga komponen utama dari data tersebut:
-1. [cite_start]**Nilai Maksimum** 
-2. [cite_start]**Nilai Minimum** 
-3. [cite_start]**Nilai Rata-rata (Average)** 
+1. **Nilai Maksimum** 
+2. **Nilai Minimum** 
+3. **Nilai Rata-rata (Average)** 
 
 ---
 
