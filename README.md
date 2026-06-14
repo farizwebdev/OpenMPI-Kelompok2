@@ -6,6 +6,8 @@
 
 **Dosen Pengampu:** Bapak Adi Wirawan
 
+---
+
 ## Anggota Kelompok
 Proyek ini dikerjakan oleh tim yang terdiri dari maksimal 6 orang untuk mensimulasikan arsitektur *Cluster/Multi-node*:
 
