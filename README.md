@@ -11,6 +11,8 @@
 ## Anggota Kelompok
 Proyek ini dikerjakan oleh tim yang terdiri dari maksimal 6 orang untuk mensimulasikan arsitektur *Cluster/Multi-node*:
 
+## Kelas A
+
 1. **24106050005** -- NURUL FATIHA 
 2. **24106050006** -- GAHYAKA ARARYA FAIRUZ
 3. **24106050007** -- MUHAMMAD FAJRI 
