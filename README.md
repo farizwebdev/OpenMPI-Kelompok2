@@ -1,4 +1,4 @@
-# OpenMPI-Kelompok2
+# OpenMPI-Kelompok2 Kelas A
 
 **Tugas Kelompok: Komputasi Paralel Berbasis Cluster dengan OpenMPI**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Anggota Kelompok 2 - Kelas A
+## Anggota Kelompok
 Proyek ini dikerjakan oleh tim yang terdiri dari maksimal 6 orang untuk mensimulasikan arsitektur *Cluster/Multi-node*:
 
 1. **24106050005** -- NURUL FATIHA 
